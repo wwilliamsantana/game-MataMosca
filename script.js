@@ -1,7 +1,7 @@
 let altura = 0
 let largura = 0
 let vidas = 1
-let tempo = 4
+let tempo = 15
 let dificuldade = 1500
 
 function sizeViewPort() {
